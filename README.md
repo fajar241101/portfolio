@@ -27,12 +27,12 @@ I am a highly motivated Electronics and Instrumentation graduate with a strong p
 - Led workshops on **Gimbalabs Plutus Project-Based Learning (PPBL) ver. 2.0**, covering **MeshJS, Aiken, Plu-ts, and Cardano Architecture + Layer 2 integration**.
 - Oversaw **course translation & front-end design**, improving accessibility and user experience.
 
-### **Frontend Engineer Intern @ Volantis Technology** (_Mar 2024 - Present_)
+### **Frontend Engineer Intern @ Volantis Technology** (_Jul 2024 - Aug 2024_)
 - Fixed **90%+ of reported UI/UX bugs**, leading to a **30% reduction in user-reported issues**.
 - Enhanced site responsiveness, improving **page load times by 40%** and boosting user engagement by **25%**.
 - Streamlined navigation, reducing UI-related support tickets by **35%**.
 
-### **Teacher - ICT @ Madrasah Mu'allimin Muhammadiyah Yogyakarta** (_Jul 2024 - Mar 2024_)
+### **Teacher - ICT @ Madrasah Mu'allimin Muhammadiyah Yogyakarta** (_Jul 2024 - Sep 2024_)
 - Taught **100+ students** foundational coding skills in **Python, HTML/CSS, JavaScript**, and digital literacy.
 - Provided hands-on experience in **AI, Blockchain, Cloud Computing, and IoT**, with real-world applications.
 - Focused on **ethical tech use**, digital citizenship, and cybersecurity awareness.
