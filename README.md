@@ -8,8 +8,8 @@ I am a fresh graduate in Electronics and Instrumentation, highly motivated to co
 ## Education
 - B.Sc, Electronics and Instrumentation | University of Gadjah Mada | GPA: 3.63/4.00 (_Sep 2020 - May 2024_)
 - Front End Developer Internship | Praxis Academy (_Feb 2023 - Jun 2023_)
-- Emurgo Certified Cardano Developer Associate | Emurgo Academy (_June 2022 - December 2022_)
-- Emurgo Certified Cardano Developer Professional | Emurgo Academy (_December 2022 - February 2023_)
+- Emurgo Certified Cardano Developer Associate | Emurgo Academy (_Jun 2022 - Dec 2022_)
+- Emurgo Certified Cardano Developer Professional | Emurgo Academy (_Dec 2022 - Feb 2023_)
   
 ## Work Experience
 **Assistant Lecturer (_Sep 2024 - Present_)**
@@ -18,22 +18,22 @@ I am a fresh graduate in Electronics and Instrumentation, highly motivated to co
 - Helped **80%+ of students** by answering questions, breaking down tough concepts, and guiding them through the material.
 - Stepped in to lead **30-40% of class sessions**, keeping lessons on track and making sure students stayed engaged.
   
-**Lead and Co-Educator of Blockchain Developer Workshop Projects in Gimbalabs Indonesia (_Mar 2024 - Present_)**
+**Lead & Co-Educator of Blockchain Developer Workshop Projects @ Gimbalabs Indonesia (_Mar 2024 - Present_)**
 - Delivered educational sessions on Cardano Bridging Syllabus covering a range of technical topics such as Linux command, GitHub/GitLab, HTML+CSS, Tailwind CSS, NextJS, ReactJS, Typescript, and Javascript (Modern ES6) to enhance learners' understanding of blockchain technology.
 - Conducted sessions on Gimbalabs Plutus Project-Based Learning (PPBL) ver. 2.0, teaching advanced topics such as MeshJS, Aiken, Plu-ts, and Cardano Architecture + Layer 2 integration, utilizing programming languages like Python, Go, C++, Javascript, and Julia.
 - Acted as the Person-in-Charge (PIC) for Gimbalabs Plutus Project-Based Learning (PPBL) ver. 2.0, overseeing the translation of course content and the front-end design, ensuring accessibility and an enhanced user experience.
   
-**Frontend Engineer Intern at Volantis Technology (_Mar 2024 - Present_)**
+**Frontend Engineer Intern @ Volantis Technology (_Mar 2024 - Present_)**
 - Resolved **90%+ of reported UI/UX bugs** in the Svelte framework, including critical issues with the follow button, image uploads, and undefined "like" pop-ups, leading to smoother interactions and a **30% reduction in user-reported errors**.
 - Improved site responsiveness across all devices, fixing search bar glitches, game search issues, and comment posting bugs—resulting in **a 40% faster page load time** and **a 25% increase in successful user interactions**.
 - Optimized user experience by refining content structure, adjusting article titles, fixing URL copy bugs, disabling sidebar toggles, and removing the language switcher flag—helping streamline navigation and **reduce UI-related support tickets by 35%**.
 
-**Teacher of Information and Communication Technologies at Madrasah Mu'allimin Muhammadiyah Yogyakarta (_Jul 2024 - Mar 2024_)**
+**Teacher of Information and Communication Technologies @ Madrasah Mu'allimin Muhammadiyah Yogyakarta (_Jul 2024 - Mar 2024_)**
 - Teaching approximately 100 students about Basic coding, technological advancements, and built an awareness regarding relevant issues such as digital literacy for students to get to know about safe online behavior digital citizenship and avoiding cyber threats.
 - Introducing students about foundational concepts in programming using popular languages like Python, HTML/CSS, and JavaScript. Also emphasized on breaking down problems into manageable steps and created efficient algorithms followed by Hands-on experiences with real world projects to reinforce theoritical knowledge.
 - Sharing some understanding of the emerging trends in the realm of Artificial Intelligence, Blockchain, Cloud Computing, and Internet of Things thus given some real-life examples for students to illustrate the practical applications and implications of advanced technologies. Also analyzed how emerging technologies influence society, economy, and individual life.
 
-**Internet of Things Project Mentor at Madrasah Technonatura Jogja (_Feb 2023 - Jun 2023_)**
+**Internet of Things Project Mentor @ Madrasah Technonatura Jogja (_Feb 2023 - Jun 2023_)**
 - *Oversaw and guided teams in the development of Internet of Things projects*: Successfully led **10+ IoT projects**, achieving an **85-95% completion rate** within the planned timeline.
 - *Developed strategic plans for the implementation of IoT technologies in educational projects*: Designed **5+ strategic plans**, with **80-90% successfully** implemented in educational initiatives.
 - *Provided training and support to team members on electronic design, firmware programming, and cloud platform integration*: Trained **20+ team members**, with **75-90% demonstrating proficiency** in key IoT skills post-training (measured through assessments or project performance).
